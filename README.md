@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error involving the misuse of the equality operators (`==` and `===`). The `bug.php` file shows the problematic code, while `bugSolution.php` provides the corrected version.  The key takeaway is to understand the difference between loose and strict comparison and to use the appropriate operator based on the intended behavior.
